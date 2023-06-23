@@ -2,7 +2,7 @@
 layout: index
 ---
 
-## toomwn.xyz
+## the.toomwn.xyz
 
 A domain for members of the town to host their website.
 
