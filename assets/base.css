@@ -1,0 +1,137 @@
+
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Calligraffitti&display=swap');
+/* test font */
+
+* {
+    font-family: 'EB Garamond', serif;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none; 
+    background-color: #181A1B;
+}
+
+header {
+    text-align: center;
+    margin: 5px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    
+}
+
+*::-webkit-scrollbar {
+    display: none;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Merriweather', serif !important;
+
+    
+}
+
+h2, h3 {
+    text-decoration: underline;
+}
+
+h1,h2,h3,h4,h5,h6,p,li{
+    color: #c2c0bc;
+}
+/* Make the color scheme beige colored */
+
+h4 {
+    font-style: italic;
+}
+
+body {
+
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 15px;
+
+    margin-bottom: 60px;
+
+}
+
+
+html {
+    margin-left: 85px;
+    margin-right: 50px;
+}
+
+#news {
+    margin-left: 0px;
+    margin-top: 20px;
+    background-color: #363A3D;
+    border-radius: 30px;
+}
+
+.news-item {
+    margin: 20px;
+    display: inline-block;
+    background-color: #181A1B;
+    padding: 20px;
+    border-radius: 50px;
+    width: 300px;
+
+}
+
+/* taj fix the item size!!!! i dont know how this works bro */
+
+a, a:visited, a:hover, a:active {
+    color: rgb(21, 93, 175);
+}
+
+#footer {
+    text-align: center;
+    padding-top: ;
+}
+
+#titleheader {
+    font-size: 50px;
+    text-decoration: none;
+    color: #c2c0bc;
+}
+
+#footerlink {
+    color: #c2c0bc;
+}
+
+#relstats{
+    text-align: center;
+}
+
+#relstats p{
+    font-style: italic;
+}
+
+#statusapproved{
+    font-weight: bold;
+    color: rgb(4, 202, 4);
+}
+
+#statusdenied{
+    font-weight: bold;
+    color: red;
+}
+
+#statusunknown{
+    font-weight: bold;
+    color: orange;
+}
+
+#politics {
+    color: #c2c0bc;
+    text-align: center;
+    border: 2px solid white;
+    font-size: 30px;
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #363A3D;
+}
+
+#politicsdiv{
+    text-align: center;
+    padding: 30px;
+}
