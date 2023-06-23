@@ -4,6 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Calligraffitti&display=swap');
 /* test font */
 
+
 * {
     font-family: 'EB Garamond', serif;
     -ms-overflow-style: none;  /* IE and Edge */
@@ -36,6 +37,7 @@ h2, h3 {
 
 h1,h2,h3,h4,h5,h6,p,li{
     color: #c2c0bc;
+    font-size: 250%;
 }
 /* Make the color scheme beige colored */
 
