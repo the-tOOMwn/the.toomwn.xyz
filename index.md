@@ -14,7 +14,7 @@ A domain for members of the town to host their website.
 - [shanmeis-notes.toomwn.xyz](https://shanmeis-notes.toomwn.xyz/)
 - [reaper.toomwn.xyz](https://reaper.toomwn.xyz/)
 - [shadowgarten.toomwn.xyz](https://shadowgarten.toomwn.xyz/)   
-- ~~[littleroot.toomwn.xyz](https://littleroot.toomwn.xyz/)~~
+- [littleroot.toomwn.xyz](https://littleroot.toomwn.xyz/)
 - ~~[cringe.toomwn.xyz](https://cringe.toomwn.xyz/)~~
 
 ### Town websites
