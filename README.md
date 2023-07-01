@@ -1,2 +1,2 @@
 # toomwn.xyz
-the very own toowmn.xyz
+the very own the.toowmn.xyz
