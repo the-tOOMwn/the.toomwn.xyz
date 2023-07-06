@@ -22,3 +22,6 @@ A domain for members of the town to host their website.
 - [the.toomwn.xyz](https://the.toomwn.xyz/)
 - [constitution.toomwn.xyz](https://constitution.toomwn.xyz)
 - [interactive.toomwn.xyz](https://interactive.toomwn.xyz)
+
+### Small Project websites
+- [frengraph.toomwn.xyz](https://frengraph.toomwn.xyz/)
