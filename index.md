@@ -17,6 +17,8 @@ A domain for members of the town to host their website.
 - [littleroot.toomwn.xyz](https://littleroot.toomwn.xyz/)
 - [cringe.toomwn.xyz](https://cringe.toomwn.xyz/)
 - [loren.toomwn.xyz](https://loren.toomwn.xyz/) - made via cloudflare workers and [fruition](https://fruitionsite.com/771ef38657244c27b9389734a9cbff44)!
+- [wanderer.toomwn.xyz](https://wanderer.toomwn.xyz/)
+- [highproductivitymethanolcarbonylationcatalysisusingiridium.toomwn.xyz](https://highproductivitymethanolcarbonylationcatalysisusingiridium.toomwn.xyz/)
 
 ### Town websites
 - [the.toomwn.xyz](https://the.toomwn.xyz/)
