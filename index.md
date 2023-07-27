@@ -25,5 +25,6 @@ A domain for members of the town to host their website.
 - [interactive.toomwn.xyz](https://interactive.toomwn.xyz)
 
 ### Small Project websites
+- [blaze.toomwn.xyz](https://blaze.toomwn.xyz/)
 - [frengraph.toomwn.xyz](https://frengraph.toomwn.xyz/)
 - [highproductivitymethanolcarbonylationcatalysisusingiridium.toomwn.xyz](https://highproductivitymethanolcarbonylationcatalysisusingiridium.toomwn.xyz/)
